@@ -1,2 +1,2 @@
 # Project-Hotele
-Projekt polegający na rezerwacji pokoju w danym hotelu
+A project consisting in booking a room in a given hotel
